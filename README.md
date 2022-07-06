@@ -1,1 +1,1 @@
-https://github.com/Alina-Zadorojnaya/CV
+https://github.com/Alina-Zadorojnaya/CV/cv
