@@ -1,5 +1,5 @@
 
-![Это опциональный alt-текст](/assets/images/markdown/markdown.png)
+![Это опциональный alt-текст](/cv/images/photo.png)
 
 ## __*Zadorojna Alina*__
 
